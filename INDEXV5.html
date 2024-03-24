@@ -77,9 +77,9 @@
             <p>Découvrez mes œuvres ci-dessous et n'hésitez pas à me contacter pour toute demande ou projet artistique !</p>
         </div>
         <div class="artwork">
-            <img src="lien_vers_image1.jpg" alt="C:\Users\Maxime\Desktop\PAGE WEB COLLECTIONS\20240119_095445.heic">
-            <img src="lien_vers_image2.jpg" alt="C:\Users\Maxime\Desktop\PAGE WEB COLLECTIONS\20240120_162729.heic">
-            <img src="lien_vers_image3.jpg" alt="C:\Users\Maxime\Desktop\PAGE WEB COLLECTIONS\20240121_113321.heic">
+            <img src="nouvelle_image1.jpg" alt="C:\Users\Maxime\Desktop\PAGE WEB COLLECTIONS\20240119_095445.heic">
+            <img src="nouvelle_image2.jpg" alt="C:\Users\Maxime\Desktop\PAGE WEB COLLECTIONS\20240120_162729.heic">
+            <img src="nouvelle_image3.jpg" alt="C:\Users\Maxime\Desktop\PAGE WEB COLLECTIONS\20240121_113321.heic">
             <!-- Ajoutez autant d'images que vous le souhaitez -->
         </div>
         <div class="contact-info">
